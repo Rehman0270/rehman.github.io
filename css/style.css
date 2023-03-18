@@ -1,0 +1,64 @@
+body:active {
+
+    background-color: rgba(204, 222, 158, 0.786);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+body {
+    background-color: #FEFAE0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+.ff:hover{padding: 17px;}
+td{padding: 10px;}
+table,h2,h3:hover {
+    padding: 20px;
+}
+
+table {
+    padding: 15px;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: rgba(128, 128, 128, 0.562);
+    border-width: 6px;
+    width: 5%;
+    border-radius: px;
+    height: 0px;
+
+}
+
+img:hover {
+
+    height: 150px;
+    border-radius: 10px;
+    ;
+}
+
+img {
+    height: 150px;
+    border-radius: 200px;
+}
+
+h2 {
+   
+    color: #aebb80;
+   ;
+}
+
+h3 {
+    color: #778d61;
+}
+
+div {
+    background-color: rgb(207, 240, 197);
+    border-radius: 5px;
+}
+
+#heading {
+    font: italic "Fira Sans", serif;
+}
+div:hover{
+     background-color: #dcd39b;
+}
